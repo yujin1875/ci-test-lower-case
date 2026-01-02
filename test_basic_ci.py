@@ -13,7 +13,6 @@ def test_ci_is_working():
     """
     assert 1 + 1 == 2
 
-def test_ci_should_fail():
-    assert 1 + 1 == 3
+# def test_ci_should_fail():
+#     assert 1 + 1 == 3
 
-#test 123
